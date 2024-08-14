@@ -106,7 +106,7 @@ WSL. Las etapas del problema se subdividen en:
        API en columnas. Se debe observar que los datos sobre lluvia
        (rain) y nieve (snow) se dan a veces si existe el fenómeno.
     3. Desarrollar un ejecutable /get-weather.sh/ para ejecutar el
-       programa Python/Java.[fn:1]
+       programa Python/Java.
        #+begin_src shell :exports both
          pwd
        #+end_src
